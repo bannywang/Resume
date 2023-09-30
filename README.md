@@ -39,7 +39,7 @@ ___
 
 ## 工作經驗
 
-- **坂和科技有限公司** (2023/4 ~ 2023/9) 
+- **坂和科技有限公司 Bowa 學院** (2023/4 ~ 2023/9) 
   - 職位: 學生
   - 主要職責:
     - 學習 js 前後端開發。
@@ -73,7 +73,10 @@ ___
 ___
 
 ## 作品集
-- 請參考 GitHub https://github.com/bannywang?tab=repositories
+- [個人履歷網站](https://github.com/bannywang/Curriculum_Vitae.git "個人履歷網站")
+<!-- ![圖片名稱](連結 "游標顯示") -->
+- [Bowa學院專案-後端(前)](https://github.com/bannywang/back-end-e-commerce-website.gitt "Bowa學院專案-後端(前)")
+- [Bowa學院專案-後端(中)](https://github.com/bannywang/back-end-Shopping-center-console-back "Bowa學院專案-後端(中)")
 
 ___
 
