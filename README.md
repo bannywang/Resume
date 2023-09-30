@@ -1,50 +1,76 @@
 ### Hi there 👋
 
+# 王瀚邑 (Banny Wang)
  
-![我的照片3](./assets/img/../../img/img%20(3).jpg)
+<!-- ![我的照片3](./assets/img/../../img/img%20(3).jpg) -->
 
+- **Birthday**: 2000/02/29
+- **Education**: 台東大學 / 資訊管理學系 肄
+- **Location**: Kaohsiung City
+- **E-mail**: rich.bannywang@gmail.com
+- **Mobile**: 0973-506-316
+- **學習紀錄** ：https://github.com/bannywang?tab=repositories
 
-
-<!-- 自我介紹 -->
-I'm Banny Wang, a software developer passionate about bringing ideas to life through code. Welcome to my GitHub repository！
 
 ___
 
-<!-- 正在進行 -->
-🔭 **Currently Working On:**
-- Building a responsive webpage/web application using EJS and Node.js
-___
+## 專業技能 
 
-<!-- 正在學習 -->
-🌱 **Currently Learning:**
-- Advanced JS/Advanced Node.JS/Optimizing MySQL, frameworks and librarioogle
-- Cloud services with Google
-___
+#### 開發技能：
+- **Express**：熟悉後端框架，搭配 `AJAX` 技術，實現資料交換而無需頁面重載。
+- **Express Middleware**：對無權限使用者進行有效篩選。
+- **JavaScript**：熟悉 ES5 至 ES8 語法。
+- **MVC**：熟悉 MVC 架構，進行功能模組化分離。
+- **MySQL**：熟悉資料庫管理和正規化表格設計。
+- **Bootstrap**：進行快速響應式網頁開發。
+- **HTML**：熟悉應用 HTML 標籤，可進行前端切版。
+- **CSS**：熟悉應用 CSS 樣式及 transition 配置。
+- **Git／GitHub**：熟悉版本控制，能夠在多人專案中有效協作。
+- **Socket IO**：有使用的經驗。
+- **API Integration**：熟悉使用外部 `API` 進行資料串接。
+- **Async／Await**：進行非同步操作。
 
-<!-- 尋找合作的項目 -->
-👯 **Looking to Collaborate On:**
-- Multifunctional reservation system (project)
-- Residential community system for apartment buildings (project)
-___
+#### 設計技能：
+- **Adobe Photoshop**：用於設計動畫和圖檔。
+- **Adobe Illustrator**：製作向量圖、DM 和海報。
+- **Adobe Premiere Pro**：進行非線性視頻編輯。
 
-<!-- 尋找協助的項目 -->
-🤔 **Looking for Help With:**
-- Google Cloud Services deployment
+## 工作經驗
 
-<!-- 可以問我有關: -->
-💬 **Ask Me About:**
-- My journey into software development
-- Delicious food in Kaohsiung, Taiwan
+- **坂和科技有限公司** (2023/4 ~ 2023/9) 
+  - 職位: 學生
+  - 主要職責:
+    - 學習 js 前後端開發。
+    - 學習 MySQL 資料庫開發。
+    - 學習 Git 版本控制。
 
-<!-- 如何聯絡我 -->
-📫 **How to Reach Me:**
-- Email：rich.bannywang@email.com
-- LINE：0973506316 (use phone search)
+##
 
-<!-- 有趣的事情 -->
-⚡ **Interesting things:**
-- I can perform the finger separation magic trick！
+- **電商、餐飲創業** (2022/2 ~ 2023/4) 
+  - 職位: 老闆
+  - 主要職責:
+    - 國內外小物、衣褲選品。
+    - 與配合廠商合作開發健康茶項目。
+    - 高雄文橫夜市擺攤販售自創餐飲(蝦滑刈包)。
 
-Feel free to check out my [portfolio website](https://github.com/bannywang/Curriculum_Vitae.git), and don't hesitate to reach out if you're interested in collaborating or want to chat. Let's bring the ideas in our minds to life through code!
+##
 
-Thank you for stopping by!
+- **台東娜路彎大酒店** (2019/6 ~ 2022/1) 
+  - 職位: 美工專員
+  - 主要職責:
+    - 一人開發、維護官方網站。
+    - 拍攝官方 YT 頻道、剪輯。
+    - 舊有顧客聯繫 (訂房、禮盒、餐券)。
+    - 設計、製作、發包館內美工物。
+
+##
+
+- **必勝客** (2016 ~ 2023 兼職) 
+  - 職位: 工讀生
+
+
+## 作品集
+- 請參考 GitHub https://github.com/bannywang?tab=repositories
+
+## 結語
+感謝您的停留，歡迎提出任何建議或意見！
